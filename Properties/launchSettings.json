@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "xBindFuncVisibilityRepro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "xBindFuncVisibilityRepro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
