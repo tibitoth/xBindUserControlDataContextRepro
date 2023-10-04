@@ -13,7 +13,7 @@ public sealed partial class TestUserControl : UserControl
         DataContextChanged += (s, e) =>
         {
             // uncomment this to fix the issue
-            Bindings.Update();
+            //Bindings.Update();
         };
     }
 
